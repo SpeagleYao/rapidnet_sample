@@ -1,0 +1,49 @@
+materialize(cancer, -1, 0, keys(1, 2)
+materialize(friends, -1, 0, keys(1, 2, 3)
+materialize(pQList, -1, 0, keys(1, 2)
+materialize(pResultTmp, -1, 0, keys(1, 2)
+materialize(prov, -1, 0, keys(1, 2, 3)
+materialize(rQList, -1, 0, keys(1, 2)
+materialize(rResultTmp, -1, 0, keys(1, 2)
+materialize(ruleExec, -1, 0, keys(1, 2)
+materialize(shaResult, -1, 0, keys(1, 2, 3)
+materialize(smoke, -1, 0, keys(1, 2)
+prov_r1_1 ecancerTemp(@RLOC, Local, P, RID, RWeight, R, List) :- smoke(@Local, P), PID1 := f_sha1((smoke+ Local)+ P), List := f_append(PID1), RLOC := Local, RWeight := 0.89, R := r1, RID := f_sha1((R+ RLOC)+ List).
+prov_r1_2 ruleExec(@RLOC, RID, RWeight, R, List) :- ecancerTemp(@RLOC, Local, P, RID, RWeight, R, List).
+prov_r1_3 ecancer(@Local, P, RID, RWeight, RLOC) :- ecancerTemp(@RLOC, Local, P, RID, RWeight, R, List).
+prov_r1_4 cancer(@Local, P) :- ecancer(@Local, P, RID, RWeight, RLOC).
+prov_r1_5 prov(@Local, VID, RID, RLOC, Score) :- ecancer(@Local, P, RID, RWeight, RLOC), VID := f_sha1((cancer+ Local)+ P), Score := -1.
+prov_r2_1 esmokeTemp(@RLOC, Local, A, RID, RWeight, R, List) :- friends(@Local, A, B), PID1 := f_sha1(((friends+ Local)+ A)+ B), List := f_append(PID1), smoke(@Local, B), PID2 := f_sha1((smoke+ Local)+ B), List2 := f_append(PID2), List := f_concat(List, List2), A != B, RLOC := Local, RWeight := 0.88, R := r2, RID := f_sha1((R+ RLOC)+ List).
+prov_r2_2 ruleExec(@RLOC, RID, RWeight, R, List) :- esmokeTemp(@RLOC, Local, A, RID, RWeight, R, List).
+prov_r2_3 esmoke(@Local, A, RID, RWeight, RLOC) :- esmokeTemp(@RLOC, Local, A, RID, RWeight, R, List).
+prov_r2_4 smoke(@Local, A) :- esmoke(@Local, A, RID, RWeight, RLOC).
+prov_r2_5 prov(@Local, VID, RID, RLOC, Score) :- esmoke(@Local, A, RID, RWeight, RLOC), VID := f_sha1((smoke+ Local)+ A), Score := -1.
+prov_r3_1 esmokeTemp(@RLOC, Local, B, RID, RWeight, R, List) :- friends(@Local, A, B), PID1 := f_sha1(((friends+ Local)+ A)+ B), List := f_append(PID1), smoke(@Local, A), PID2 := f_sha1((smoke+ Local)+ A), List2 := f_append(PID2), List := f_concat(List, List2), A != B, RLOC := Local, RWeight := 0.88, R := r3, RID := f_sha1((R+ RLOC)+ List).
+prov_r11_1 eshaResultTemp(@RLOC, Local, VID, Content, RID, RWeight, R, List) :- smoke(@Local, P), PID1 := f_sha1((smoke+ Local)+ P), List := f_append(PID1), VID := f_sha1((smoke+ Local)+ P), Name := smoke, Content := (Name+ _)+ P, RLOC := Local, RWeight := 1, R := r11, RID := f_sha1((R+ RLOC)+ List).
+prov_r11_2 ruleExec(@RLOC, RID, RWeight, R, List) :- eshaResultTemp(@RLOC, Local, VID, Content, RID, RWeight, R, List).
+prov_r11_3 eshaResult(@Local, VID, Content, RID, RWeight, RLOC) :- eshaResultTemp(@RLOC, Local, VID, Content, RID, RWeight, R, List).
+prov_r11_4 shaResult(@Local, VID, Content) :- eshaResult(@Local, VID, Content, RID, RWeight, RLOC).
+prov_r11_5 prov(@Local, VID, RID, RLOC, Score) :- eshaResult(@Local, VID, Content, RID, RWeight, RLOC), VID := f_sha1(((shaResult+ Local)+ VID)+ Content), Score := -1.
+prov_r12_1 eshaResultTemp(@RLOC, Local, VID, Content, RID, RWeight, R, List) :- cancer(@Local, P), PID1 := f_sha1((cancer+ Local)+ P), List := f_append(PID1), VID := f_sha1((cancer+ Local)+ P), Name := cancer, Content := (Name+ _)+ P, RLOC := Local, RWeight := 1, R := r12, RID := f_sha1((R+ RLOC)+ List).
+prov_r13_1 eshaResultTemp(@RLOC, Local, VID, Content, RID, RWeight, R, List) :- friends(@Local, A, B), PID1 := f_sha1(((friends+ Local)+ A)+ B), List := f_append(PID1), VID := f_sha1(((friends+ Local)+ A)+ B), Name := friends, Content := (((Name+ _)+ A)+ _)+ B, RLOC := Local, RWeight := 1, R := r13, RID := f_sha1((R+ RLOC)+ List).
+prov_edb_1 prov(@Local, VID, RID, RLoc, Score) :- RLoc := Local, friends(@Local, A, B), VID := f_sha1(((friends+ Local)+ A)+ B), RID := VID, Score := B.
+edb1 pReturn(@Ret, QID, VID, Prov) :- provQuery(@X, QID, VID, P, Ret), prov(@X, VID, RID, RLoc, Score), RID == VID, shaResult(@X, VID, Content), Prov := Content.
+idb1a pQList(@X, QID, P, LIST< RID >) :- provQuery(@X, QID, VID, P, Ret), prov(@X, VID, RID, RLoc, Score), RID != VID, f_member(P, VID) == 0.
+idb1b pReturn(@Ret, QID, VID, Prov) :- provQuery(@X, QID, VID, P, Ret), f_member(P, VID) > 0, shaResult(@X, VID, Content), Prov := Content.
+idb2 pResultTmp(@X, QID, Ret, VID, Buf) :- provQuery(@X, QID, VID, P, Ret), Buf := f_empty().
+idb3 pIterate(@X, QID, N) :- provQuery(@X, QID, VID, P, Ret), N := 1.
+idb4 pIterate(@X, QID, N) :- pIterate(@X, QID, N1), pQList(@X, QID, P, List), N1 < f_size(List), N := N1+ 1.
+idb5 eRuleQuery(@X, NQID, RID, P) :- pIterate(@X, QID, N), pQList(@X, QID, P, List), N <= f_size(List), RID := f_item(List, N), NQID := f_sha1((+ QID)+ RID).
+idb6 ruleQuery(@RLoc, QID, RID, P, X) :- eRuleQuery(@X, QID, RID, P1), prov(@X, VID, RID, RLoc, Score), P2 := f_append(VID), P := f_concat(P1, P2).
+idb7 pResultTmp(@X, QID, Ret, VID, Buf) :- rReturn(@X, NQID, RID, Prov), pResultTmp(@X, QID, Ret, VID, Buf1), NQID == f_sha1((+ QID)+ RID), Buf2 := f_append(Prov), Buf := f_concat(Buf1, Buf2).
+idb8 ePReturn(@X, QID) :- pResultTmp(@X, QID, Ret, VID, Buf), pQList(@X, QID, P, List), f_size(Buf) == f_size(List), f_size(Buf) != 0.
+idb9a pReturn(@Ret, QID, VID, Prov) :- ePReturn(@X, QID), pResultTmp(@X, QID, Ret, VID, Buf), Prov1 := f_pIDB(Buf, X), shaResult(@X, VID, Content), Prov := Content+ Prov1.
+rv1 rQList(@X, QID, P, List) :- ruleQuery(@X, QID, RID, P, Ret), ruleExec(@X, RID, RWeight, R, List).
+rv2 rResultTmp(@X, QID, Ret, RID, Buf) :- ruleQuery(@X, QID, RID, P, Ret), Buf := f_empty().
+rv3 rIterate(@X, QID, N) :- ruleQuery(@X, QID, RID, P, Ret), N := 1.
+rv4 rIterate(@X, QID, N) :- rIterate(@X, QID, N1), rQList(@X, QID, P, List), N1 < f_size(List), N := N1+ 1.
+rv5 eProvQuery(@X, NQID, VID, P) :- rIterate(@X, QID, N), rQList(@X, QID, P, List), VID := f_item(List, N), NQID := f_sha1((+ QID)+ VID).
+rv6 provQuery(@X, QID, VID, P, $1) :- $1 := X, eProvQuery(@X, QID, VID, P).
+rv7 rResultTmp(@X, QID, Ret, RID, Buf) :- pReturn(@X, NQID, VID, Prov), rResultTmp(@X, QID, Ret, RID, Buf1), NQID == f_sha1((+ QID)+ VID), Buf2 := f_append(Prov), Buf := f_concat(Buf1, Buf2).
+rv8 eRReturn(@X, QID) :- rResultTmp(@X, QID, Ret, RID, Buf), rQList(@X, QID, P, List), f_size(Buf) == f_size(List).
+rv9 rReturn(@Ret, QID, RID, Prov) :- eRReturn(@X, QID), rResultTmp(@X, QID, Ret, RID, Buf), ruleExec(@X, RID, RWeight, R, List), Prov := f_pRULE(Buf, X, R, RWeight).

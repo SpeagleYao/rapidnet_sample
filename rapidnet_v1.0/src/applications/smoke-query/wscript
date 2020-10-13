@@ -1,0 +1,13 @@
+## -*- Mode: python; py-indent-offset: 4; indent-tabs-mode: nil; coding: utf-8; -*-
+
+def build(bld):
+    module = bld.create_ns3_module('smoke-query', ['internet-stack'])
+    module.source = [
+        'smoke-query.cc',
+        ]
+    headers = bld.new_task_gen('ns3header')
+    headers.module = 'smoke-query'
+    headers.source = [
+        'smoke-query.h',
+        'smoke-query-helper.h',
+        ]

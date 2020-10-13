@@ -1,0 +1,184 @@
+testing
+0 1
+0 2
+1 3
+4 3
+5 2
+5 0
+
+live size: 22
+1 0
+6 1
+7 1
+0 2
+4 3
+5 1
+
+like size: 33
+Elena Machine Learning
+Jay	Machine Learning
+Steve Machine Learning
+Ben	Machine Learning
+Alex Machine Learning
+Arti Machine Learning
+Dhanya Machine Learning
+Sabina Machine Learning
+Jay Skeeball
+Steve Skeeball
+Ben Skeeball
+Jay Trivia
+Steve Trivia
+Sabina Trivia
+Steve Sports
+Ben Sports
+Alex Veggies
+Jay Veggies
+Sabina Veggies
+Arti Veggies
+Dhanya Veggies
+Steve Veggies
+Elena Veggies
+Ben Veggies
+Jay Climbing
+Sabina Climbing
+Dhanya Climbing
+Arti Education
+Sabina Education
+Ben Hiking
+Dhanya Hiking
+Steve Hiking
+
+1 0
+3 0
+6 1
+7 2
+3 3
+2 3
+6 4
+5 5
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=0 know_attr3=1 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=0 know_attr3=2 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=0 know_attr3=3 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=1 know_attr3=2 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=1 know_attr3=3 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=2 know_attr3=1 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=2 know_attr3=3 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=3 know_attr3=1 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=3 know_attr3=2 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=4 know_attr3=1 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=4 know_attr3=2 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=4 know_attr3=3 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=5 know_attr3=0 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=5 know_attr3=1 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=5 know_attr3=2 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=5 know_attr3=3 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=5 know_attr3=6 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=5 know_attr3=7 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=6 know_attr3=0 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=6 know_attr3=1 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=6 know_attr3=2 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=6 know_attr3=3 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=6 know_attr3=5 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=6 know_attr3=7 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=7 know_attr3=0 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=7 know_attr3=1 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=7 know_attr3=2 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=7 know_attr3=3 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=7 know_attr3=5 know_attr4=1 
+time=5 node=10.1.1.1 tuple=know know_attr1=10.1.1.1 know_attr2=7 know_attr3=6 know_attr4=1 
+time=5 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=know tuple_attr3=10.1.1.1 tuple_attr4=2 tuple_attr5=3 tuple_attr6=1 
+time=5 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=1fe2dadf76d34659f37e1a852b4bf537f73a48e records_attr3=e1e64196d6f69b078e9ccea6fa789236409528b5 records_attr4=rc@n257((r2@n257(likeEvent23*rb@n257(likeEvent33))+r13@n257(r13@n257(knowEvent231*rc@n257((r2@n257(likeEvent30*rb@n257(likeEvent10))+r13@n257(rc@n257(knowEvent211)*(r2@n257(likeEvent33*rb@n257(likeEvent23))+r13@n257(knowEvent311*rc@n257(r13@n257(rc@n257(knowEvent321)*(rd@n257(relation13)+r13@n257(knowEvent121*know231)+r2@n257(likeEvent10*rb@n257(likeEvent30)))))))))))*rc@n257((rd@n257(relation13)+r2@n257(likeEvent10*rb@n257(likeEvent30))+r13@n257(know231*r13@n257(knowEvent131*rc@n257((r2@n257(likeEvent33*rb@n257(likeEvent23))+r13@n257(rc@n257(knowEvent121)*(r2@n257(likeEvent30*rb@n257(likeEvent10))+r13@n257(knowEvent321*rc@n257(r13@n257(knowEvent231*rc@n257(knowEvent311))))))))))))))) 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=7e382ff6790fd68aa68c0d9644b8171ceb2951e shaResult_attr3=know131 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=a891b25a0ec17aee0b4d415aa032d45fa228ac4 shaResult_attr3=knowEvent731 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=a945134698093860d97ff15b999f78fefc95945 shaResult_attr3=likeEvent55 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=eecb2987b88a1414f0b46a3e5b77b820f276641 shaResult_attr3=knowEvent651 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=149eea12dc1a4901214ccc9338726da9dc2e2a66 shaResult_attr3=knowEvent131 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=15552a6bcdfa5a4634dfa92d4757bff9367c747a shaResult_attr3=know421 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=15a1750b31f2c466c7a06731b95c5e8de110f098 shaResult_attr3=knowEvent511 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=180cf166d193eed6a0e4e660286e6574a4d8af8d shaResult_attr3=like10 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=181717a723ba30d5613218e41fad35a851aa012c shaResult_attr3=knowEvent121 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=18ec3c3ed1d8727c52fedd89241ed4ba94234c6a shaResult_attr3=know611 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=18ee7e30ef29bb12f793424f02fdca3406571c4e shaResult_attr3=knowEvent621 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=1a56e0bcc1fce6bafd6421096aa7aa682c2ed643 shaResult_attr3=knowEvent321 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=1d846dd9275f78ec496c894154aa84beede2a538 shaResult_attr3=know761 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=24848c4e8dc9f6df0c012370280e0f04827b700a shaResult_attr3=know561 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=24bbe4bf28fdcc7680cb3b69a0e100b1c9c87e7a shaResult_attr3=relation52 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=257742d89264359074c9c4d593114349d1a8d1a1 shaResult_attr3=like30 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=29813d25c4cc479a5b76177c8da827f7daa3af28 shaResult_attr3=know321 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=29c36aa16bb62bd2a183eb6ed89743a1b0733649 shaResult_attr3=knowEvent021 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=2aabdd6fab3460ce42a174d21e5e70f3810dbc20 shaResult_attr3=knowEvent611 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=3a70021cc87f8acbe417b83c644bbc5c974ba668 shaResult_attr3=know411 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=3afb61dfc26fa30992c58be9983c323ea1a5c75c shaResult_attr3=live71 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=3b168b28e6c38aa1451703a2972e6aabf35259c3 shaResult_attr3=live10 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=3be7e77cbba59b31c6871bb431977b3d3b4b70ef shaResult_attr3=knowEvent031 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=3fcaabc07c97fd964897400a2a1ebceee2866e63 shaResult_attr3=know511 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=4d9559a6bd9a759de07c0b6b7d8f794b1dfb0853 shaResult_attr3=knowEvent761 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=52235c5fbab4698a633bf0646f264239f360180f shaResult_attr3=know671 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=52328d42e3132bcf715639355e4f82e48ed28748 shaResult_attr3=know121 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=5383f1d5f0790af9628d3bf76c879f6f62740f3d shaResult_attr3=live61 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=578b0ef6fcc85a5b4105803c3a1c93eb88b3e6e4 shaResult_attr3=likeEvent10 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=594124e67ff24ceed061645fc59152b516e59e45 shaResult_attr3=knowEvent751 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=639c1a9a19865a340c7e958549cc9bde482736a9 shaResult_attr3=liveEvent51 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=6d6e064a7d6787acef4a62d0ded0c33e29bc4cfd shaResult_attr3=liveEvent02 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=6db699fc0db86743b315e7716de76ed614cf79d8 shaResult_attr3=liveEvent10 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=7232e080b876537e4012d00c4ada9fd48d7fbbb7 shaResult_attr3=knowEvent571 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=788d3c6c915a249597caf4282e626776be43ed39 shaResult_attr3=like33 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=79978ca9d064eaae15789203240ed78a97e06de5 shaResult_attr3=like72 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=7e691ab39b5ecd56dac6438d01b0a6b00e2f6827 shaResult_attr3=knowEvent411 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=7e6c45a3c8685975d0fcdb80b20a398c0ee8f684 shaResult_attr3=know651 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=7fedeaa7296a82c425b0c7981ac5e47ae18cbce6 shaResult_attr3=relation01 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=80fa4ce7d74b0fafae89c4df59ddaa29da3a659c shaResult_attr3=know711 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=82c4068a3904c8581e4b72acafbe6492167f2103 shaResult_attr3=like23 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=843df5ea55e84d15316f09425a8d56f9ae2818d3 shaResult_attr3=knowEvent211 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=84a2b36a7a147f1e2cbec22244032b8f0e5109e7 shaResult_attr3=live51 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=8589f633c4f066b0730d41ec62f5d4aa0cd379f3 shaResult_attr3=liveEvent43 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=85b0e33f6f37a14079faff63d5c4c67d2010f05c shaResult_attr3=knowEvent421 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=860f049bb5289724647d2233136559b5dd4b5edf shaResult_attr3=live02 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=8618aa4b76f4f2229e40b9ce6b81b4e64b065a02 shaResult_attr3=knowEvent231 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=883d196ce61002f630563c1c1163ca172c4cbc9f shaResult_attr3=knowEvent311 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=8bb5ca841b8b5f229cfa4a300e5417abc32ebf1d shaResult_attr3=know701 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=8e9c1f52c21d0bad54222b1220ec1b28f8585e61 shaResult_attr3=know751 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=8f8fc90013e150416dde484e075c505d161d1970 shaResult_attr3=knowEvent601 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=92c24d6dee9b7e2b8154b7d251fed1cc5d8ae6d5 shaResult_attr3=know631 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=942f60e9a6a70071e11faf6027d3cdb99a1861cf shaResult_attr3=know031 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=95133422892dfb110c59c99bfff3c9bed4d2e671 shaResult_attr3=relation50 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=96b7dc2a7a9cdbefe838f72996e53fc2337b6162 shaResult_attr3=knowEvent501 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=9bfd0166d2560dd7b38c150479c505bcedad6303 shaResult_attr3=likeEvent64 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=9df4083cafc33603e87d2cbd647db2f59cb85295 shaResult_attr3=likeEvent23 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=a3a6fce169fc686ae5c6fc0fcbfc7f9c09fc6a33 shaResult_attr3=know621 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=a5dadcd3fc8d9c224ae3566c28832c2cc73f7b6d shaResult_attr3=know311 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=a82c9475ada43534b6913b6df72cc63b9c08a8a6 shaResult_attr3=likeEvent30 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=a91726064242923842e5df7acf6c34e449918a30 shaResult_attr3=relation02 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=abc86335c6a3493871fbb9d56ccdfdb9fc9b5b9b shaResult_attr3=knowEvent701 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=ac80042504f9278de221663d5e5c98f63be15e1a shaResult_attr3=know601 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=addabe747628ad1ba0af61e41be32914aa7ad1f0 shaResult_attr3=know011 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=ba2cdbe9de438aa77a7173394bc320d8f49af7fa shaResult_attr3=knowEvent631 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=bb193d297659bd6103a1847d7eb8d4d6ffc193f2 shaResult_attr3=knowEvent561 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=bc6773a1cd1e005ebf200184eac3895eb0ec0cc7 shaResult_attr3=know531 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=c013b2d6e1188159ffeb23c462ce4e418e678560 shaResult_attr3=knowEvent711 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=c0bdf3f5309a68faaddc6519847fb6d48541bd21 shaResult_attr3=know431 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=c1463cfd7e103197b3e43a4f59151e1402368de9 shaResult_attr3=know521 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=c153479c974b14a407c028a58c0cf59f5032c00e shaResult_attr3=know721 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=c46197987587e5ec93e98200ee646381e062af40 shaResult_attr3=knowEvent521 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=c6fd87f922dbd350dd427af05dff48e65b107f02 shaResult_attr3=know501 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=c781947c6b9fadefe129e4d076d00f79686042f3 shaResult_attr3=liveEvent71 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=ca26bd6c457621f09f8652257b9df84fcf299083 shaResult_attr3=like55 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=cec54219f79a228486c30e52b966834ad82a9649 shaResult_attr3=knowEvent531 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=d2d022d355a0483b6c86bf8848c73405e9f3e325 shaResult_attr3=likeEvent33 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=d60e71154eb64942f5419fb24a221a483528a9c2 shaResult_attr3=know211 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=d9a370adb4bbcbf2d092976a113a6e27f9c4702e shaResult_attr3=knowEvent431 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=dc7205450f0f77c533a0b42ca13d5ec37ffcb1bb shaResult_attr3=knowEvent721 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=dda2d987560df258b1cea4777d33ea1ccab805b4 shaResult_attr3=know731 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=df61e9389ee7c45ba04d8478014a6fbea748a41b shaResult_attr3=relation13 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=e0cbe8c3cd8ca0e9bb0ea0de41597c446decb8e5 shaResult_attr3=likeEvent72 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=e193a8e9f8e3efaef6545a0e144db9e660b52708 shaResult_attr3=know571 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=e1c42495891c7d38cc81bb06202d84bfcbc4ca2b shaResult_attr3=like61 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=e1e64196d6f69b078e9ccea6fa789236409528b5 shaResult_attr3=know231 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=e540629a547c677f6e05877bd727535a2392ef5c shaResult_attr3=knowEvent011 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=eb3fe32f990113a1b1c17b5f9bca3756974cef3c shaResult_attr3=liveEvent61 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=f3a4f14af9071749e02d83a8c6a55388d3c7b7e3 shaResult_attr3=relation43 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=fa4c69464b14b22add010835c90b9665f5bb79fd shaResult_attr3=like64 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=fb3cc864c55dc944666d6b0c10fddb4a6a5b9b11 shaResult_attr3=live43 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=fb4b16393170237fa6410b88e8eeb9b86e7aca24 shaResult_attr3=knowEvent671 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=fcbe7014587d5af11c341664ccd5834e2bbe0342 shaResult_attr3=likeEvent61 
+time=5 node=10.1.1.1 tuple=shaResult shaResult_attr1=10.1.1.1 shaResult_attr2=ff5c1d5830293247afddeb4e9a734b4e12f5638a shaResult_attr3=know021 

@@ -1,0 +1,13 @@
+## -*- Mode: python; py-indent-offset: 4; indent-tabs-mode: nil; coding: utf-8; -*-
+
+def build(bld):
+    module = bld.create_ns3_module('hyper-text-class', ['internet-stack'])
+    module.source = [
+        'hyper-text-class.cc',
+        ]
+    headers = bld.new_task_gen('ns3header')
+    headers.module = 'hyper-text-class'
+    headers.source = [
+        'hyper-text-class.h',
+        'hyper-text-class-helper.h',
+        ]

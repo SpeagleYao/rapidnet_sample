@@ -1,0 +1,7 @@
+// large	city	scene	1
+// a	tall	tower	0.5
+// blue	white	sign	0.4
+large is city 1
+tall is tower 0.5
+blue in sign 0.4
+white in sign 0.4

@@ -1,0 +1,79 @@
+///// EDBs /////
+
+materialize(word, infinity, infinity, keys(1,2)).
+// word(@Local, W) -- W is a word. 
+// Example: word(@Local, "horse").
+
+materialize(hasImg, infinity, infinity, keys(1,2,3,4)).
+// hasImg(@Local, X, Rln, Y) -- X and Y has relation R.
+// Example: hasImg(@Local, "horse", "color", "grey"). 
+// Example: hasImg(@Local, "horse", "in", "background"). 
+// Example: hasImg(@Local, "tree", "behind", "hence"). 
+
+materialize(hasQ, infinity, infinity, keys(1,2,3,4)).
+// hasQ(@Local, X, Rln, Y) -- Predict X.
+// Example: hasQ(@Local, "building", "is", "What"). 
+// Example: hasQ(@Local, "background", "building", "What"). 
+
+materialize(sim, infinity, infinity, keys(1,2,3)).
+materialize(simRep1, infinity, infinity, keys(1,2,3)).
+materialize(simRep2, infinity, infinity, keys(1,2,3)).
+// sim(@Local, X, Y) -- X and Y has similarity.
+// Example: sim(@Local, "horse", "barn")  with score 0.325
+// Example: sim(@Local, "horse", "horse") with score 1
+
+
+///// IDBs /////
+
+materialize(candidate, infinity, infinity, keys(1,2)).
+// candidate(@Local, X) -- X is a candidate to the question.
+// Example: candidate(@Local, "barn").
+
+materialize(hasImgAns, infinity, infinity, keys(1,2,3,4,5)).
+// hasImgAns(@Local, Z, X, Rln, Y) -- candidate Z is related to the knowledge (X, Rln, Y).
+// Example: hasImgAns(@Local, "horse", "horse", "in", "background"). 
+
+materialize(ans, infinity, infinity, keys(1,2)).
+// ans(@Local, X) -- X is an answer to the question. 
+
+
+/////Hash values////
+materialize(shaResult, infinity, infinity, keys(1, 2:cid, 3:str)).
+
+///// Rules /////
+
+// In implementation, replace these two rules by adding additional insertion in the script
+ra simRep1(@Local, Z, X) :- sim(@Local, Z, X). 
+rb simRep2(@Local, Z, X) :- sim(@Local, Z, X).
+
+
+r1 hasImgAns(@Local, Z, X, Rln, Y) :- word(@Local, Z), hasImg(@Local, X, Rln, Y),
+		     	     	      sim(@Local, Z, X), simRep1(@Local, Z, Y).
+
+r2 candidate(@Local, Z) :- word(@Local, Z). 
+
+r3 candidate(@Local, Z) :- word(@Local, Z), hasQ(@Local, Y, Rln, X), hasImgAns(@Local, Z, X1, Rln1, Y1), 
+   		     	         sim(@Local, Rln, Rln1), simRep1(@Local, Y, Y1), simRep2(@Local, X, X1). 
+
+r4 ans(@Local, Z) :- candidate(@Local, Z), hasQ(@Local, X, Rln, Qtn), Qtn == "WHAT",
+                     hasImg(@Local, Z, Rln, X). 
+
+r5 ans(@Local, Z) :- candidate(@Local, Z), hasQ(@Local, X, Rln, Qtn), Qtn == "WHAT",
+                     hasImg(@Local, Z1, Rln, X), sim(@Local, Z, Z1). 
+
+r6 ans(@Local, Z) :- candidate(@Local, Z), hasQ(@Local, X, Rln, Qtn), Qtn == "WHAT",
+                     hasImg(@Local, Z1, Rln1, X1), sim(@Local, Z, Z1), simRep1(@Local, Rln, Rln1), simRep2(@Local, X, X1). 
+
+// rt ans(@Local, Z) :- candidate(@Local, Z).
+
+
+//mapping hash value
+r7 shaResult(@Local, VID, Content) :- word(@Local, W), VID := f_sha1("word"+Local+W), Name := "word", Content := Name+"_"+W.
+r8 shaResult(@Local, VID, Content) :- hasImg(@Local, X, Rln, Y), VID := f_sha1("hasImg"+Local+X+Rln+Y), Name := "hasImg", Content := Name+"_"+X+"_"+Rln+"_"+Y.
+r9 shaResult(@Local, VID, Content) :- hasQ(@Local, X, Rln, Y), VID := f_sha1("hasQ"+Local+X+Rln+Y), Name := "hasQ", Content := Name+"_"+X+"_"+Rln+"_"+Y.
+r10 shaResult(@Local, VID, Content) :- sim(@Local, X, Y), VID := f_sha1("sim"+Local+X+Y), Name := "sim", Content := Name+"_"+X+"_"+Y.
+r11 shaResult(@Local, VID, Content) :- simRep1(@Local, X, Y), VID := f_sha1("simRep1"+Local+X+Y), Name := "simRep1", Content := Name+"_"+X+"_"+Y.
+r12 shaResult(@Local, VID, Content) :- simRep2(@Local, X, Y), VID := f_sha1("simRep2"+Local+X+Y), Name := "simRep2", Content := Name+"_"+X+"_"+Y.
+r13 shaResult(@Local, VID, Content) :- ans(@Local, Z), VID := f_sha1("ans"+Local+Z), Name := "ans", Content := Name+"_"+Z.
+r14 shaResult(@Local, VID, Content) :- candidate(@Local, Z), VID := f_sha1("candidate"+Local+Z), Name := "candidate", Content := Name+"_"+Z.
+r15 shaResult(@Local, VID, Content) :- hasImgAns(@Local, Z, X, Rln, Y), VID := f_sha1("hasImgAns"+Local+Z+X+Rln+Y), Name := "hasImgAns", Content := Name+"_"+Z+"_"+X+"_"+Rln+"_"+Y.

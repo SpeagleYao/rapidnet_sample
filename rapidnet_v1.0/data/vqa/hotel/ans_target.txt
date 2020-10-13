@@ -1,0 +1,4 @@
+house
+horse
+barn
+hotel

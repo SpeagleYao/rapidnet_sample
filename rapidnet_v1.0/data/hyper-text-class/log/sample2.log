@@ -1,0 +1,291 @@
+Student
+Faculty
+Staff
+ResearchProject
+Course
+Department
+Person
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=12 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=23 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=25 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=53 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=58 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=71 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=109 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=117 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=121 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=137 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=138 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=140 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=148 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=157 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=168 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=191 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=193 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=194 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=197 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=220 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=250 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=302 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Course topic_attr3=334 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=8 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=15 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=16 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=22 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=34 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=45 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=55 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=57 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=61 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=68 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=69 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=72 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=74 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=92 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=108 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=120 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=130 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=137 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=142 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=157 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=187 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Department topic_attr3=246 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=1 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=6 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=9 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=21 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=40 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=81 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=98 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=99 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=106 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=124 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=136 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=137 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=145 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=152 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=156 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=161 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=167 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Faculty topic_attr3=200 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=8 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=9 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=27 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=31 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=36 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=46 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=47 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=63 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=66 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=70 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=76 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=80 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=81 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=84 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=101 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=108 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=120 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=127 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=132 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=139 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=154 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=159 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=162 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=185 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=186 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=193 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=219 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Person topic_attr3=340 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=2 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=5 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=8 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=10 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=20 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=22 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=26 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=42 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=51 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=55 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=66 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=74 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=75 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=81 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=93 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=108 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=112 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=114 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=124 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=125 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=128 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=131 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=162 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=170 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=193 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=199 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=218 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=246 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=ResearchProject topic_attr3=340 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=23 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=29 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=35 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=56 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=58 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=66 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=76 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=79 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=87 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=88 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=107 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=109 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=117 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=121 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=129 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=141 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=146 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=160 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=191 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=193 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=197 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=250 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=281 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=302 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Staff topic_attr3=334 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=16 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=18 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=37 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=49 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=50 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=55 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=57 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=62 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=68 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=69 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=81 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=103 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=104 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=122 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=131 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=142 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=157 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=159 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=187 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=191 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=196 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=206 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=218 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=250 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=272 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=282 
+time=999 node=10.1.1.1 tuple=topic topic_attr1=10.1.1.1 topic_attr2=Student topic_attr3=334 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=0 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=1 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=2 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=3 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=4 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=5 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=6 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=7 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=8 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=9 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=10 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=11 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=12 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=13 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=14 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=15 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=16 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=17 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=18 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=19 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=20 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=21 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=22 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=23 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=24 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=25 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=26 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=27 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=28 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=29 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=30 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=31 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=32 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=33 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=34 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=35 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=36 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=37 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=38 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=39 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=40 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=41 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=42 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=43 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=44 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=45 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=46 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=47 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=48 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=49 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=50 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=51 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=52 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=53 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=54 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=55 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=56 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=57 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=58 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=59 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=60 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=61 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=62 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=63 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=64 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=65 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=66 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=67 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=68 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=69 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=70 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=71 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=72 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=73 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=74 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=75 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=76 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=77 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=78 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=79 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=80 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=81 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=82 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=83 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=84 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=85 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=86 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=87 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=88 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=89 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=90 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=91 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=92 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=93 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=94 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=95 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=96 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=97 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=98 
+time=999 node=10.1.1.4 tuple=tuple tuple_attr1=10.1.1.4 tuple_attr2=topic tuple_attr3=10.1.1.1 tuple_attr4=Student tuple_attr5=99 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=3ea3e1dc12e7ede3517e7777b89742a9efeb00cc records_attr3=6568dc6f9a37f49596725f637971f1b205b18cad records_attr4=topic_Student_69(r388@n257(hasword_server_69)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=4c01c91017d52b903850df0644399ebfbb6db277 records_attr3=d0f7bdec18e5bfa140b219417156ca976e2faaf0 records_attr4=topic_Student_62((rl@n257(links_62_196*topic_Student_196(rl@n257(links_196_62*topic_Student_62))))+(rl@n257(links_62_49*topic_Student_49((r375@n257(hasword_ncsa_49))+(rl@n257(links_49_206*topic_Student_206(rl@n257(links_206_62*topic_Student_62)))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=4d85d6f414338a59b3c837d585ea3089d52b20ba records_attr3=5faaff9d1a2fa6a43b083e7e97b370187a0b45ca records_attr4=topic_Student_68(r388@n257(hasword_server_68)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=5a40a716dad42398db50fc8dd3e5a62ca3161205 records_attr3=6d923ee4621877c6efc0ce288e96635d660bddec records_attr4=topic_Student_37(r345@n257(hasword_stuff_37)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=a03836181b0e58f123ca96b4a4dc3571110f9695 records_attr3=cc47094a806f547fcaf62ea2052e784498ec4ce2 records_attr4=topic_Student_81(r52@n257(hasword_softwar_81)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=a9feaefbd8a1939048672cc65477ce74368ed511 records_attr3=2cdfe1b6b0a6c9b49352e08335c721f323ed819e records_attr4=topic_Student_50(r258@n257(hasword_list_50)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=d151be653503bab566a8047e65f8c363cbb8924c records_attr3=cd5855073349fd803de607598133daffd60e8f36 records_attr4=topic_Student_49((r375@n257(hasword_ncsa_49))+(rl@n257(links_49_206*topic_Student_206(rl@n257(links_206_62*topic_Student_62((rl@n257(links_62_49*topic_Student_49))+(rl@n257(links_62_196*topic_Student_196(rl@n257(links_196_62*topic_Student_62)))))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=e769e1aad27a9eb3ad46f2b1d4514bd9f285caee records_attr3=516c852f1cd3dc8f7389f292c64128c37c962c21 records_attr4=topic_Student_55(r306@n257(hasword_detail_55)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=ecae6c205bb12b75ec9b683fdef98a55bc23ae86 records_attr3=2e45693ddab89a2444c7ddde8c000809c312739c records_attr4=topic_Student_57(r388@n257(hasword_server_57)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=f26b8b4c012b3bfdc2f14fcce6aefd4e5043d94b records_attr3=ae54253201929ebd06ffd16b14d7ccd41dd230ab records_attr4=topic_Student_18(r482@n257(hasword_date_18)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=fcda2a6517deddce1cb4ecea71cb0eb874c509c9 records_attr3=8d7e98c94bc7ab2277877c31314851f75549a84e records_attr4=topic_Student_16(r388@n257(hasword_server_16)) 
+time cost: 15.3275 seconds

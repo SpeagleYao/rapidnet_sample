@@ -1,0 +1,4 @@
+factory
+library
+station
+college

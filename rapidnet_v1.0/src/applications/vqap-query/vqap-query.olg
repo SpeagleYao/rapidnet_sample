@@ -1,0 +1,8 @@
+materialize(records,infinity,infinity,keys(1,2:cid,3:cid,4:str)).    
+materialize(tuple, infinity, infinity, keys(1,2:str,3,4:str)). 
+materialize(temp, infinity, infinity, keys(1,2,3)).
+
+// qr temp(@Me, Name, X) :- tuple(@Me, Name, Loc, X).
+
+q1 provQuery(@Loc, QID, UID, P, ME):- tuple(@ME, Name, Loc, X), UID:=f_sha1(Name+Loc+X), Time := f_now(), QID:=f_sha1(""+UID+Time), P:=f_append("").
+q2 records(@ME, QID, RID, Prov) :- pReturn(@ME, QID, RID, Prov).

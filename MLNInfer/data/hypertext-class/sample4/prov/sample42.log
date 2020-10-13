@@ -1,0 +1,828 @@
+31100
+Student
+Faculty
+Staff
+ResearchProject
+Course
+Department
+Person
+6031258
+6031428
+6031570
+6031715
+6031857
+6031994
+6032132
+6969527
+6969680
+6969816
+6969955
+6970089
+6970222
+6970356
+7003802
+7003953
+7004088
+7004224
+7004357
+7004489
+7004625
+7056148
+7056295
+7056432
+7056566
+7056699
+7056834
+7056966
+7090795
+7090943
+7091080
+7091214
+7091347
+7091479
+7091612
+7163859
+7164007
+7164143
+7164279
+7164413
+7164546
+7164679
+7219717
+7219864
+7219999
+7220132
+7220265
+7220398
+7220531
+7276486
+7276633
+7276768
+7276901
+7277035
+7277169
+7277302
+7334091
+7334238
+7334380
+7334518
+7334652
+7334785
+7334918
+7370746
+7370893
+7371029
+7371164
+7371297
+7371431
+7371564
+7454388
+7454536
+7454673
+7454808
+7454941
+7455076
+7455210
+7491888
+7492036
+7492172
+7492306
+7492440
+7492574
+7492706
+7853444
+7853591
+7853726
+7853867
+7854001
+7854134
+7854266
+8013429
+8013576
+8013711
+8013851
+8013986
+8014119
+8014253
+8111105
+8111251
+8111386
+8111519
+8111653
+8111785
+8111917
+8241427
+8241576
+8241713
+8241854
+8241988
+8242121
+8242254
+8312763
+8312910
+8313046
+8313180
+8313313
+8313445
+8313578
+8385020
+8385169
+8385304
+8385439
+8385572
+8385705
+8385844
+8492258
+8492407
+8492543
+8492676
+8492810
+8492943
+8493077
+8693131
+8693278
+8693412
+8693546
+8693683
+8693818
+8693951
+8735314
+8735461
+8735597
+8735730
+8735863
+8735995
+8736128
+8931701
+8931848
+8931983
+8932117
+8932251
+8932384
+8932517
+9062108
+9062255
+9062391
+9062524
+9062657
+9062790
+9062923
+9181206
+9181353
+9181487
+9181625
+9181759
+9181893
+9182026
+10047320
+10047468
+10047604
+10047738
+10047872
+10048004
+10048137
+10902378
+10902526
+10902660
+10902793
+10902927
+10903060
+10903194
+11061490
+11061641
+11062257
+11062626
+11062973
+11063319
+11063663
+11262860
+11263010
+11263147
+11263281
+11263414
+11263547
+11263680
+11361564
+11361710
+11361845
+11361978
+11362112
+11362244
+11362376
+11409883
+11410029
+11410163
+11410296
+11410429
+11410561
+11410693
+11681063
+11681212
+11681357
+11681493
+11681627
+11681761
+11681894
+11730346
+11730494
+11730629
+11730764
+11730897
+11731030
+11731237
+11780169
+11780316
+11780452
+11780588
+11780721
+11780854
+11780986
+11844958
+11845388
+11845764
+11846132
+11846499
+11846863
+11847225
+12030422
+12030587
+12030742
+12030896
+12031048
+12031199
+12031351
+12153063
+12153234
+12153388
+12153540
+12153690
+12153840
+12153990
+12213427
+12213590
+12213743
+12213893
+12214045
+12214195
+12214346
+12337674
+12337839
+12337990
+12338143
+12338295
+12338446
+12338597
+12464845
+12465011
+12465172
+12465325
+12465476
+12465627
+12465778
+13140764
+13140932
+13141092
+13141246
+13141399
+13141551
+13141703
+14606263
+14606432
+14606587
+14606740
+14606891
+14607041
+14607192
+14671482
+14671648
+14671802
+14671955
+14672107
+14672258
+14672410
+14885020
+14885186
+14885340
+14885493
+14885646
+14885797
+14885950
+15226475
+15226664
+15226819
+15226972
+15227124
+15227275
+15227426
+15376167
+15376355
+15376509
+15376684
+15376851
+15377020
+15377172
+15526003
+15526172
+15526325
+15526476
+15526626
+15526776
+15526926
+15757976
+15758142
+15758296
+15758448
+15758599
+15758751
+15758903
+15826599
+15826764
+15826918
+15827070
+15827222
+15827373
+15827525
+15895890
+15896055
+15896208
+15896360
+15896511
+15896668
+15896822
+16052981
+16053158
+16053322
+16053486
+16053647
+16053810
+16053971
+16611839
+16612005
+16612158
+16612308
+16612479
+16612644
+16612814
+16766038
+16766202
+16766356
+16766507
+16766658
+16766809
+16766959
+17119337
+17119502
+17119655
+17119807
+17119977
+17120137
+17120308
+17974176
+17974344
+17974499
+17974652
+17974804
+17974956
+17975108
+18047665
+18047831
+18047985
+18048137
+18048289
+18048448
+18048618
+18120847
+18121012
+18121165
+18121317
+18121468
+18121642
+18121801
+18194626
+18194790
+18194946
+18195098
+18195249
+18195401
+18195553
+18997124
+18997290
+18997443
+18997596
+18997748
+18997899
+18998050
+19289984
+19290151
+19290306
+19290459
+19290611
+19290763
+19290915
+19463217
+19463384
+19463560
+19463720
+19463888
+19464039
+19464195
+19856333
+19856500
+19856654
+19856808
+19856959
+19857111
+19857262
+19932820
+19932985
+19933139
+19933291
+19933442
+19933593
+19933744
+20009853
+20010018
+20010171
+20010323
+20010474
+20010648
+20010806
+20185875
+20186038
+20186192
+20186360
+20186564
+20186763
+20186947
+20263844
+20264008
+20264169
+20264320
+20264470
+20264620
+20264770
+20442063
+20442227
+20442379
+20442530
+20442681
+20442831
+20442982
+20622024
+20622191
+20622345
+20622496
+20622648
+20622810
+20622962
+20701418
+20701600
+20701763
+20701935
+20702086
+20702237
+20702389
+20780869
+20781033
+20781187
+20781340
+20781491
+20781643
+20781793
+21096170
+21096336
+21096490
+21096642
+21096792
+21096943
+21097093
+21380952
+21381116
+21381269
+21381420
+21381571
+21381721
+21381871
+21461279
+21461443
+21461596
+21461747
+21461897
+21462046
+21462196
+21541273
+21541436
+21541590
+21541741
+21541891
+21542041
+21542192
+21729370
+21729537
+21729693
+21729845
+21729997
+21730149
+21730299
+21810572
+21810736
+21810890
+21811042
+21811194
+21811345
+21811496
+22000795
+22000960
+22001113
+22001264
+22001416
+22001566
+22001717
+22345015
+22345190
+22345350
+22345508
+22345666
+22345823
+22345981
+22680412
+22680580
+22680740
+22680898
+22681056
+22681212
+22681369
+22876195
+22876360
+22876512
+22876662
+22876813
+22876963
+22877113
+23183382
+23183547
+23183704
+23183856
+23184007
+23184157
+23184306
+23381201
+23381367
+23381519
+23381671
+23381822
+23381973
+23382124
+23837006
+23837170
+23837322
+23837474
+23837625
+23837775
+23837926
+24038560
+24038725
+24038878
+24039030
+24039181
+24039333
+24039483
+24240278
+24240442
+24240628
+24240779
+24240928
+24241078
+24241227
+26059640
+26059815
+26059969
+26060123
+26060274
+26060426
+26060577
+26148096
+26148261
+26148415
+26148566
+26148717
+26148868
+26149019
+26360125
+26360291
+26360445
+26360597
+26360749
+26360901
+26361052
+26697670
+26697833
+26697985
+26698137
+26698287
+26698437
+26698588
+26786628
+26786790
+26786943
+26787094
+26787252
+26787404
+26787555
+26876193
+26876356
+26876508
+26876659
+26876809
+26876958
+26877110
+27092772
+27092938
+27093092
+27093244
+27093396
+27093547
+27093697
+27308312
+27308476
+27308627
+27308777
+27308927
+27309077
+27309226
+28106175
+28106340
+28106492
+28106642
+28106793
+28106944
+28107099
+28453865
+28454029
+28454183
+28454334
+28454485
+28454637
+28454787
+28677784
+28677950
+28678104
+28678256
+28678407
+28678558
+28678709
+31226041
+31226216
+31226370
+31226522
+31226678
+31226830
+31226981
+33315210
+33315378
+33315531
+33315681
+33315832
+33315982
+33316131
+33549078
+33549241
+33549394
+33549545
+33549696
+33549846
+33549995
+33645791
+33645954
+33646105
+33646256
+33646412
+33646562
+33646712
+34066795
+34066961
+34067174
+34067349
+34067511
+34067661
+34067812
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=65c48c5c413bd2650ff132f47579e36a6dcf507 records_attr3=a10d74f9f458fb28c1dcb47137e44f87dba93f58 records_attr4=topic_Person_25(rl@n257(links_25_50*topic_Person_50(r387@n257(hasword_html_50)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=66d289c23868f135e57b0a9493e2175619f00f9 records_attr3=ec5ec5923e04d4b26a581db46c1e2f1c2633e11c records_attr4=topic_Person_95(rl@n257(links_95_83*topic_Person_83((rl@n257(links_83_95*topic_Person_95))+(rl@n257(links_83_50*topic_Person_50(r387@n257(hasword_html_50))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=74e410bcc4d9da536374e5ac9c41740cc101be6 records_attr3=d6f6f4ebcdcd52e1072a5252a22823fe0b7b2f1a records_attr4=topic_Department_14(r360@n257(hasword_apr_14)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=8f19956d0eb9cdd408aa5bdc981f2c864e5f6b8 records_attr3=a79652905659fc169d9603aa5b1871996c5caba8 records_attr4=topic_Department_68(rl@n257(links_68_121*topic_Department_121(r409@n257(hasword_involv_121)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=bc5653821df4fca3d92714c57c8b108de783f62 records_attr3=9b7f5ffc969c614f8c93deeab4e7df9defc0ea2f records_attr4=topic_Student_56(rl@n257(links_56_69*topic_Student_69(r297@n257(hasword_press_69)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=f6d7520f756396ce8f77645ebb76f5c8aa5929b records_attr3=129beb6d0de9aa5c760810d25f228c7b06cee39b records_attr4=topic_Person_13(r315@n257(hasword_postscript_13)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=fb6ef7a525fb97197a037c2793929a57eaa8f30 records_attr3=b580041465080d20efd3c9ab13d6959dc5b8123b records_attr4=topic_Person_57(rl@n257(links_57_27*topic_Person_27(r295@n257(hasword_version_27)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=118891c9c8a2d25bb1142c0e32379158599f2c63 records_attr3=d54d9dce3f3d0e1aa3a8613a02e3183120b02081 records_attr4=topic_Faculty_62(r316@n257(hasword_content_62)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=15ea700c7845f6f2c2536b04b2cae7f049e5617f records_attr3=f7fc430ebc06ccf3eeb2ceb2f889c7e3dcefa5c4 records_attr4=topic_Department_42(rl@n257(links_42_121*topic_Department_121(r409@n257(hasword_involv_121)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=173c49f894ded757b76f9c1d2cab7bd94e912a0a records_attr3=cf24f9e1edc70781803e84948ddfe8726bd1dd79 records_attr4=topic_Person_64(r387@n257(hasword_html_64)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=19aed8d63aea52896f72fc9276bcc9ac30d7f6d9 records_attr3=9e3d3daa0bfc4a6b7c9659fe192301ade7299552 records_attr4=topic_Course_92(r196@n257(hasword_comput_92)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=1a6144780a1ec95ab6ab38918357c367429f9177 records_attr3=b934e52b413218e7770dc0d9d860941802985041 records_attr4=topic_Faculty_59(r425@n257(hasword_nov_59)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=1a7c303fbbdcdbb79d18ea8abea4b1eca0fd2b1f records_attr3=33763d1cb1585c36f1f72118e52137261ce9c099 records_attr4=topic_Course_24(rl@n257(links_24_11*topic_Course_11(rl@n257(links_11_101*topic_Course_101(r73@n257(hasword_compil_101)))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=1b26f9bd9dfff562fa57db644bcb88ebd7813c15 records_attr3=4656bb54777731cb86a156bf0775d3a79429f131 records_attr4=topic_Staff_74(r281@n257(hasword_austin_74)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=1ce57922fc6811155d1fa6e2b7a66db434da92e0 records_attr3=baab9ee45cb0e1217bc1ed15b107ee7df67ae0cc records_attr4=topic_Course_45(r414@n257(hasword_commun_45)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=1d3e94c5254b3472f9984c22022d8dba95405e66 records_attr3=343d552813f3ba6ce5b02e64511715f3b45a0646 records_attr4=topic_Faculty_49(r149@n257(hasword_network_49)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=1fbc1347fff044dbe92dabc0e6a7137d4c7889a5 records_attr3=98761577dbf1bbfd77bb8934664c79cc334bc5be records_attr4=topic_Person_17(r295@n257(hasword_version_17)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=20842cfa9d43211ae518fca328683c69d3e813be records_attr3=f495f80b209ac39c2cb9c42caaf996267ed2b3d5 records_attr4=topic_Student_80(r393@n257(hasword_send_80)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=217579099aacbde21449f4da3f1b88a11476cc4f records_attr3=4b2febb94faacfd86fbce143c22f7881b54a0672 records_attr4=topic_Faculty_95((rl@n257(links_95_105*topic_Faculty_105(r499@n257(hasword_number_105))))+(rl@n257(links_95_83*topic_Faculty_83(rl@n257(links_83_95*topic_Faculty_95))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=2178af9349a7a94693ebf2e239abb5c68493e41b records_attr3=9726991aed45459062f4b6a4da37afddb5651e2e records_attr4=topic_Person_27(r295@n257(hasword_version_27)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=22ae2f1603562f2f52ab687e7ebd6c5e3328188c records_attr3=fab946f7bdb2341585aad617a6be93d6651a5155 records_attr4=topic_Student_14(r355@n257(hasword_apr_14)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=29b5dffbe93bf86ade6a49f1f8bf51a378de570c records_attr3=d66096034b6d751d42b4437407d1b55a332d62f9 records_attr4=topic_Person_83((rl@n257(links_83_50*topic_Person_50(r387@n257(hasword_html_50))))+(rl@n257(links_83_95*topic_Person_95(rl@n257(links_95_83*topic_Person_83))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=2ab2d4691dc742b56b01f7eada84f27094abb692 records_attr3=8fd362de390836a9952e7cd601fced4e27fa5153 records_attr4=topic_Department_89(r326@n257(hasword_laboratori_89)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=33af0fdff5f6e48351da88f44b5f060a65751d58 records_attr3=df09a5b18b50980c778871f7689201cb0f99a18b records_attr4=topic_Course_17(r461@n257(hasword_receiv_17)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=344345861ae0935f5fa47b15667df579a652f4f5 records_attr3=6a43c46411e276dd53051d41197c24a3e88e0a13 records_attr4=topic_Faculty_83(rl@n257(links_83_95*topic_Faculty_95((rl@n257(links_95_83*topic_Faculty_83))+(rl@n257(links_95_105*topic_Faculty_105(r499@n257(hasword_number_105))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=3be2594f0e65a97aa29ec868f2aad5f68b9058be records_attr3=75dc66285911791c4f6df57ce9c745b5fddfe676 records_attr4=topic_Student_52(rl@n257(links_52_72*topic_Student_72(r383@n257(hasword_program_72)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=3e1501fa7a1eb3c955d14bbd6b53bbafc4c32f1f records_attr3=f47241f9464dd479202a3736a495af1b86d5e65c records_attr4=topic_Faculty_52(r351@n257(hasword_updat_52)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=3ea3e1dc12e7ede3517e7777b89742a9efeb00cc records_attr3=6568dc6f9a37f49596725f637971f1b205b18cad records_attr4=topic_Student_69(r297@n257(hasword_press_69)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=4034d0381f63d5906c5aed0f60672a8b06383435 records_attr3=445894231887ddc13e7a9ded001b83b3c737fd37 records_attr4=topic_Person_59(rl@n257(links_59_50*topic_Person_50(r387@n257(hasword_html_50)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=40dd50421d9e8588f72d047de7e8e2fbd8dc7143 records_attr3=d16557c8dae58fc76f4c21a003b844c27bb70e4 records_attr4=topic_Person_2(r218@n257(hasword_friend_2)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=4214934b3b2c5bc4d0bc76441c1461f522e2c63b records_attr3=cbfb98f834ba172289b8f4aee83e7a310e436077 records_attr4=topic_Course_52((r307@n257(hasword_updat_52))+(rl@n257(links_52_17*topic_Course_17(r461@n257(hasword_receiv_17))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=46f88867bdd009bd6b1cdc1b4f85b028aca965b2 records_attr3=112d0d83da529ce83eb917114d7423b08fd4e5c4 records_attr4=topic_Person_80(rl@n257(links_80_50*topic_Person_50(r387@n257(hasword_html_50)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=475f46d3e61e4062b5ed00ab1ea74c3e19f25e02 records_attr3=c0ca5f23e931ef955064d7ab9447e5ffbe5ce8b7 records_attr4=topic_Person_39((rl@n257(links_39_103*topic_Person_103((r241@n257(hasword_studi_103))+(rl@n257(links_103_39*topic_Person_39)))))+(rl@n257(links_39_23*topic_Person_23(rl@n257(links_23_39*topic_Person_39))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=477c0305f245ea01f760a94b104c4fc460fafbe5 records_attr3=69f0e50a7d6f4ee016c6c82383bc05b5dda61ff1 records_attr4=topic_Person_23(rl@n257(links_23_39*topic_Person_39((rl@n257(links_39_23*topic_Person_23))+(rl@n257(links_39_103*topic_Person_103((r241@n257(hasword_studi_103))+(rl@n257(links_103_39*topic_Person_39)))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=4889a9b4f5bd7d2715ad397fe6fd3d41a6a93a08 records_attr3=ff0caa595ac80d77fe890cdae292fd57af6a29b4 records_attr4=topic_Faculty_38(rl@n257(links_38_112*topic_Faculty_112(r203@n257(hasword_modifi_112)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=4d496968e4d75032b9334e56a2eb3a27a9ffa8fa records_attr3=b0f83cf1b422afef0de17fda55ecdd563eac86cb records_attr4=topic_Person_34(r387@n257(hasword_html_34)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=53cf59ed692b818ffca53e8408ed8cb377d53226 records_attr3=723dc541a4660b929dcd35dc782def2d61071063 records_attr4=topic_Faculty_24(rl@n257(links_24_11*topic_Faculty_11((r10@n257(hasword_type_11))+(rl@n257(links_11_112*topic_Faculty_112(r203@n257(hasword_modifi_112))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=549d3c21348dc630a9c5bafb502f189a47ab7a81 records_attr3=748f53c9cbfd8ac300277bb46ecdf73b9f3fa32a records_attr4=topic_Person_49(rl@n257(links_49_125*topic_Person_125(rl@n257(links_125_33*topic_Person_33(r133@n257(hasword_queri_33)))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=5ab0f7e325b7bd4b1a6ef2b0b376afee5e7c4cf3 records_attr3=3f6d08241ae25f63c327032bc8c03f9086123475 records_attr4=topic_Course_94(rl@n257(links_94_11*topic_Course_11(rl@n257(links_11_101*topic_Course_101(r73@n257(hasword_compil_101)))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=5b16bdf2cd7ae10a3a3cf4c8e659f28189be3815 records_attr3=9aabb7b5a7a24f63edda2ea5f7884639f91fa214 records_attr4=topic_Faculty_9(r128@n257(hasword_utexa_9)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=5cb8717beaf93b15796b235c322e8412424618ca records_attr3=a8639f1c99686d268b91ca225eb8acf468e9ac1f records_attr4=topic_Faculty_86(r128@n257(hasword_utexa_86)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=6004305486d7f775b7bd4473294bf8501a89a423 records_attr3=d0a6d39020c1c123a580dac2778f4d193bbc4c9a records_attr4=topic_Person_18(rl@n257(links_18_115*topic_Person_115((r177@n257(hasword_goal_115))+(rl@n257(links_115_50*topic_Person_50(r387@n257(hasword_html_50))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=60e0a2d603e9330d1c523aeb48997fc804f63544 records_attr3=dfa2ac52216f329f2dc98039150dd2917500a0d9 records_attr4=topic_Person_58(r19@n257(hasword_server_58)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=622408276291dcbc04b35fab7888f8ccbdd31afd records_attr3=950185a8893588caefef3db4c67bf386cb35a0a3 records_attr4=topic_Department_12(r449@n257(hasword_fax_12)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=65cd95e4c1e2c0a18bd44980813419281441cc5d records_attr3=f985e95649554c5c363950d765a1862cfadefe49 records_attr4=topic_Person_12(rl@n257(links_12_50*topic_Person_50(r387@n257(hasword_html_50)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=675ec70b2769e71e0b1f665d8ee43481edb58097 records_attr3=f8028bd4181306df5bdc63f338f2cc6e01521e7d records_attr4=topic_Faculty_22(r12@n257(hasword_august_22)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=67e7255d459823f584a72859524b456648b03d9b records_attr3=e8cfac29f14cf666aa8f272c2f8e3ecb22604072 records_attr4=topic_Faculty_94(rl@n257(links_94_11*topic_Faculty_11((r10@n257(hasword_type_11))+(rl@n257(links_11_112*topic_Faculty_112(r203@n257(hasword_modifi_112))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=6b3ecb6f59d90d88c386ae40127600e2f8a924d3 records_attr3=cad51850b9ecdd02b80bc64c491894bb97100d99 records_attr4=topic_Student_78(r170@n257(hasword_machin_78)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=7039ac607181f56ab871bfa1632017bf6145fc79 records_attr3=51165df953eb807075e3440df418c570de7f05ec records_attr4=topic_Faculty_69(r444@n257(hasword_press_69)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=705b9fdb5ebc2982f1ac16816e7a0c1cbd5753c6 records_attr3=77097d4f81f48b2e22e6f092e80493537e901d72 records_attr4=topic_Student_72(r383@n257(hasword_program_72)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=73a8f4427ed6ee69c0ad8e0ee05c12f59a3aad12 records_attr3=364499f675f30625de1dc7b66ce09d66a5c4459a records_attr4=topic_Student_39((rl@n257(links_39_23*topic_Student_23((r288@n257(hasword_sep_23))+(rl@n257(links_23_39*topic_Student_39)))))+(rl@n257(links_39_103*topic_Student_103((r164@n257(hasword_studi_103))+(rl@n257(links_103_39*topic_Student_39)))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=7457975837bbb733332475c31fa1372423c2df3a records_attr3=55749366fb7197400e47e0d1e7c310acc0d5f5c5 records_attr4=topic_Person_75(rl@n257(links_75_50*topic_Person_50(r387@n257(hasword_html_50)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=774036d00f5af1ac591195ee92a8863cc176ca8f records_attr3=c07f51d43bceeb406741354583939420b9c6842a records_attr4=topic_Person_29((r208@n257(hasword_principl_29))+(r424@n257(hasword_master_29))+(rl@n257(links_29_50*topic_Person_50(r387@n257(hasword_html_50))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=77c301e8653eb5fb19cb623ba2a99f129042e24f records_attr3=6bdf1646ffe2440c53f14170ce5a031cc6e2868d records_attr4=topic_Person_9(r280@n257(hasword_utexa_9)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=77c3685c2429be4f9fde4b4b37cc53da1da21f2e records_attr3=3388c506f931080bcc6e816bc1f3c34f22796a97 records_attr4=topic_Person_6(r19@n257(hasword_server_6)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=7f92de25080124d6f7fdac0d412bb6e02670057b records_attr3=e34b91f83d618dccf12660e060bb52099631dfe0 records_attr4=topic_Staff_81(r220@n257(hasword_resourc_81)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=84823870a7999eafdba57fbe33370779cccc1cab records_attr3=eae3fbe9dfd122813bdb0cb8d514151c3b24f0cd records_attr4=topic_Faculty_11((r10@n257(hasword_type_11))+(rl@n257(links_11_112*topic_Faculty_112(r203@n257(hasword_modifi_112))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=875a89b25e9a986f433b242f7158095d16e000bf records_attr3=af416766c7095b326e57f41fd9edecc1a3ff59c4 records_attr4=topic_ResearchProject_96(r96@n257(hasword_public_96)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=8846ec239e4bcb7689ef0910e2879f5351ca5a53 records_attr3=8f5b86f5570f650b593ce2d644f4f75a6f681680 records_attr4=topic_Faculty_48(r316@n257(hasword_content_48)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=8c22f7272ecd7bfd7b5aa548717d5259ddecfedd records_attr3=170805f7d2d80f9319b0f7818a0c748f0d870654 records_attr4=topic_Student_11(rl@n257(links_11_101*topic_Student_101((r277@n257(hasword_compil_101))+(rl@n257(links_101_65*topic_Student_65(r70@n257(hasword_knowledg_65))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=9006a9eb064faa40c115d816f688e8bf7049c53c records_attr3=efc48345e7553a33d24de9547777204e7555509c records_attr4=topic_Faculty_4(r128@n257(hasword_utexa_4)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=923cea00c0c407773d59fc46f3281c12557e5313 records_attr3=5ac5dd1c82cbaa1bd0a023ebf06533adfdea6bba records_attr4=topic_Student_38(rl@n257(links_38_101*topic_Student_101((r277@n257(hasword_compil_101))+(rl@n257(links_101_65*topic_Student_65(r70@n257(hasword_knowledg_65))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=9413feec3c79356a2d1a1c928ce0380a4063fa43 records_attr3=8b8cd96e2b7f50aa7fd6670977ac788076eac8bb records_attr4=topic_Staff_49(r174@n257(hasword_network_49)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=9444a0766e3343da5f720b9601fe5ddfa0463b4d records_attr3=b10978f15ac7c6553e3aecd3aaea3fc1381cee5c records_attr4=topic_Course_38(rl@n257(links_38_101*topic_Course_101(r73@n257(hasword_compil_101)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=95edd5f0c9cdc4fb527f87e1f32bb483778c0790 records_attr3=9f0de55a06d403c56fa0d38b5d2e7110add483a5 records_attr4=topic_Person_98(rl@n257(links_98_50*topic_Person_50(r387@n257(hasword_html_50)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=9ed7e389810129d313fa950bc48567ba231075b6 records_attr3=4f6fe3e08f3ef679365f0267e1d500b3086ebbd8 records_attr4=topic_Person_33(r133@n257(hasword_queri_33)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=9ee23eb2d2faf5632f7b49f64d345d7fc9783f92 records_attr3=b11542be75c3119cef534e4bf440af2217170dc records_attr4=topic_Student_13(r265@n257(hasword_print_13)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=a471ec611392563680d5029e7d5ed66b38e2120c records_attr3=40db6e50c7b532f44d6a3c8b64d70ac2ff708675 records_attr4=topic_Department_79(r333@n257(hasword_home_79)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=a66ef4a89baf2dd14c56d9c065d6c7921b0b3fc6 records_attr3=5ab9c4453c4e32f130d1c08d0aa72b7cbd50fdce records_attr4=topic_Staff_39((r83@n257(hasword_pc_39))+(rl@n257(links_39_103*topic_Staff_103(rl@n257(links_103_39*topic_Staff_39))))+(rl@n257(links_39_23*topic_Staff_23(rl@n257(links_23_39*topic_Staff_39))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=a94747ebbbb81395efe197277a88043b800217f2 records_attr3=57129c68c9d8ff7a59f3d0f46af3f6cf239ef12f records_attr4=topic_Student_83(rl@n257(links_83_95*topic_Student_95((rl@n257(links_95_83*topic_Student_83))+(rl@n257(links_95_105*topic_Student_105(r371@n257(hasword_number_105))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=a987da0fb0512ff2b05588b9a9e652b52c655cbb records_attr3=e34a4cf2f6b56951abe3b9a9d6e07066bbd8dee8 records_attr4=topic_ResearchProject_90(r450@n257(hasword_displai_90)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=ab6bfa512be2b420bd50ef2de8542a2f6caf148a records_attr3=55360828171ef8e0b14dfd0e6218677a21fb39c0 records_attr4=topic_Course_11(rl@n257(links_11_101*topic_Course_101(r73@n257(hasword_compil_101)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=acf9f6d5e6da42190793043a8a5fc8567a4f1af5 records_attr3=cbd166e068e0347397efc2825eb13960a6b55e70 records_attr4=topic_Person_14(r112@n257(hasword_apr_14)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=ad0629db3bb3af4320af94f21623b1b53c2c1f0d records_attr3=495360622974b96e8bde7e577c1f61922842065e records_attr4=topic_Person_91(rl@n257(links_91_125*topic_Person_125(rl@n257(links_125_33*topic_Person_33(r133@n257(hasword_queri_33)))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=ae22d887567d2b4edc06cdba7cbf89c94c66c9f1 records_attr3=8e2099669b474fa6292c9dd1a64c1fe23fd21c39 records_attr4=topic_Student_23((r288@n257(hasword_sep_23))+(rl@n257(links_23_39*topic_Student_39((rl@n257(links_39_23*topic_Student_23))+(rl@n257(links_39_103*topic_Student_103((r164@n257(hasword_studi_103))+(rl@n257(links_103_39*topic_Student_39))))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=af7b9f34a9bf4b07cb48158b10d4d8170bb52e23 records_attr3=8ba3285a9b1e75574a977e208242eb00d3ae4cdb records_attr4=topic_Person_4(r280@n257(hasword_utexa_4)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=b159a3d60b81c181a66fb9799bc1ad049c487165 records_attr3=e99ae7425b3b518cb176a2462760e7314a5f10f6 records_attr4=topic_Person_50(r387@n257(hasword_html_50)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=b1a46a8f5afd91d09f3bc3d134c52610fbc62684 records_attr3=fa30b5ac2ddbdfcdb0aea00f8ba1de48552358aa records_attr4=topic_Staff_91(r90@n257(hasword_introduct_91)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=b2a7d874cef9a252ab3717ace55aa1bed58b4b13 records_attr3=7465fcd2b14dbdffb0abfbbeda67a535db91a0a7 records_attr4=topic_Person_86(r280@n257(hasword_utexa_86)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=b40f1efbb67cae9e2b64967f064869a611ad01ec records_attr3=59021e54d8fbae004c46818013525f9658a587e9 records_attr4=topic_Department_51((r286@n257(hasword_street_51))+(rl@n257(links_51_121*topic_Department_121(r409@n257(hasword_involv_121))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=b42109d78a17906bc70dbba0c9af3537a5b95235 records_attr3=424692d9c7adc6afe921d9d1a3e382e8a841d0f6 records_attr4=topic_Person_11(rl@n257(links_11_122*topic_Person_122(r315@n257(hasword_postscript_122)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=b4b677b2e2e4c3fc241f40a0583de5a02fa5e67b records_attr3=96830456dcdb247c95e09e191600a10ab5c1eb24 records_attr4=topic_Person_92(r101@n257(hasword_email_92)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=bc13db0fb0371b56b6ff8f3b42ed20831aafdca0 records_attr3=f3dc6bb8d98d4c97d86205c8402bafaf55b15d3d records_attr4=topic_Person_36(r387@n257(hasword_html_36)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=be97167f98ba70c23a78a7717b8246aae6d60817 records_attr3=24737d58ebc8ec8e03babe0c87d7a3a2ce1c7aaa records_attr4=topic_Person_43(r197@n257(hasword_servic_43)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=bf7a8024a0077e4818e91bac833c78e28c435002 records_attr3=9c13d27881648982450261975ddcf36e6e4f30db records_attr4=topic_Student_44(r159@n257(hasword_window_44)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=bfe0967b0ed5271ce1f9127ab9b69b5a5be066d0 records_attr3=6d3af85c4e8b2140b7b868c08c68c472316d613a records_attr4=topic_Person_26(r101@n257(hasword_email_26)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=c31591702f1c22a189db06349ce82035111ee4f5 records_attr3=7c09af4502e91cbb2579dbd5f1bd02ed55290eec records_attr4=topic_Student_24(rl@n257(links_24_11*topic_Student_11(rl@n257(links_11_101*topic_Student_101((r277@n257(hasword_compil_101))+(rl@n257(links_101_65*topic_Student_65(r70@n257(hasword_knowledg_65))))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=c5f5d1f2b5ce88f670a367a038aff093053b703b records_attr3=9f81f8f06a4ea3aff6b99f21a6884d3972a2bf06 records_attr4=topic_Course_77(r78@n257(hasword_dai_77)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=c767272e1a382a6c4371ff1bd00ac8d06fc1308d records_attr3=77ef30c814e85addb792c40fcd19dcc5e226cba3 records_attr4=topic_ResearchProject_7(r340@n257(hasword_mail_7)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=ca1b1fedbb298ef46d488b7479fa43feb049ba95 records_attr3=75407bc24222f4d6e620e4236f6b709fd75768f9 records_attr4=topic_Student_65(r70@n257(hasword_knowledg_65)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=cb5740beb0cdc4e4a629baa394e3ebed0aa86f15 records_attr3=bec30e472a56fa412a69d5a5172fbe6aeb9cb18b records_attr4=topic_Person_20((r368@n257(hasword_signal_20))+(rl@n257(links_20_50*topic_Person_50(r387@n257(hasword_html_50))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=cb99b3543cecea24c1b1d385af09961182773da7 records_attr3=f33d93030b5c5da1a1e800b1e0460e024d09774 records_attr4=topic_Person_5(r274@n257(hasword_addition_5)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=ccee2c55e0b44f8f273c5b067e2bec5a82fe742d records_attr3=d10e949853ca7e12b871bc048553d404cc020c69 records_attr4=topic_Person_24(rl@n257(links_24_11*topic_Person_11(rl@n257(links_11_122*topic_Person_122(r315@n257(hasword_postscript_122)))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=d2a1fc3e3550d1c8f20545ec7a0184ca7aa90366 records_attr3=354065c277121ac0ca439ebe5111750c232f0fb5 records_attr4=topic_Department_76(rl@n257(links_76_121*topic_Department_121(r409@n257(hasword_involv_121)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=d2a6b41a1c96b67bc8c54af2e9f66e617ef06dcf records_attr3=ae7d19eaade44e92275f87cd5bc453407f5e5e77 records_attr4=topic_Faculty_56((rl@n257(links_56_106*topic_Faculty_106(r243@n257(hasword_offic_106))))+(rl@n257(links_56_69*topic_Faculty_69(r444@n257(hasword_press_69))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=d3432200f71cd1fe2ba611fda14ccbdf72269589 records_attr3=2f1ae63405d037b174707f95084a79a2f1571a6f records_attr4=topic_Faculty_93(r243@n257(hasword_offic_93)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=d79257b3dcbdfaa32c20b2fe07a0dcd84b919874 records_attr3=94ea2a721699cdf611b81515336b9c235a5f4976 records_attr4=topic_Department_45(r296@n257(hasword_commun_45)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=d7cb0fde6920bf2f71782d7ee12828dcab86012c records_attr3=bff1b553c751281eaf0c1eab29ec8cce7749ed7e records_attr4=topic_Student_22(r72@n257(hasword_august_22)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=dc4be5e1efea99439ab6093123d07959c4cdeaee records_attr3=479cc2fca240c2e876e44da9ed202a8cd4eff78d records_attr4=topic_Student_95((rl@n257(links_95_105*topic_Student_105(r371@n257(hasword_number_105))))+(rl@n257(links_95_83*topic_Student_83(rl@n257(links_83_95*topic_Student_95))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=dd0cd2eff022a63137acea0f89d4baf20ed6eb9d records_attr3=70df16cd3897e38b8ff535dd284ddf23f879abab records_attr4=topic_Person_94(rl@n257(links_94_11*topic_Person_11(rl@n257(links_11_122*topic_Person_122(r315@n257(hasword_postscript_122)))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=dd6660e54a5e8a1d77e60ca6b47e808dc3d5d8f9 records_attr3=ee45a82d02db37122c06da7d1ce5b381451c00ef records_attr4=topic_Staff_26(r281@n257(hasword_austin_26)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=de507c73336c497a87f6d3035805e785642619c9 records_attr3=5d2524c06965679802a4155110e2ec0e3dab51f7 records_attr4=topic_Person_21(rl@n257(links_21_122*topic_Person_122(r315@n257(hasword_postscript_122)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=e568e6f90303ff247fbac036728ea48588676671 records_attr3=69958d394038e459d52ae271c107848e2e72fab5 records_attr4=topic_Person_85(r126@n257(hasword_proceed_85)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=e97b2aa7b1382ea8bac00aaa6f5f6d027e72cb93 records_attr3=79a7d5dc44821fcbddade1dc68a1cb366485853f records_attr4=topic_Department_94(r35@n257(hasword_respons_94)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=e9808166c9e19a0c2f34c8319319e57c74f0afae records_attr3=abcc1bc117de3798ad5e3f77b628edadb48a1f29 records_attr4=topic_Person_78(r375@n257(hasword_machin_78)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=f07b791985105f538054df2cbd85ec7e15c5ae6f records_attr3=20e14d6cc3e1e76da5a357b9febfc02d45053043 records_attr4=topic_Person_37(r19@n257(hasword_server_37)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=f0c5d203beef47ccbb3156ce8eadaa6a6d0cfa6e records_attr3=be7b1688ef50e7605d254476ea6495a5d0bf2d85 records_attr4=topic_Person_52(rl@n257(links_52_17*topic_Person_17(r295@n257(hasword_version_17)))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=f1e02e9417a90606ce5d1131308aa37e0972f1fb records_attr3=3b50bfbf08f4d99e3188e5e818dbddfdb790a87 records_attr4=topic_Person_41(r484@n257(hasword_color_41)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=f4ee42a63e8e59a0db04b8b5d2637c3a12e1eb25 records_attr3=6be860cd6092705f31060c5d3792d4c3a61b3102 records_attr4=topic_Staff_23(rl@n257(links_23_39*topic_Staff_39((r83@n257(hasword_pc_39))+(rl@n257(links_39_23*topic_Staff_23))+(rl@n257(links_39_103*topic_Staff_103(rl@n257(links_103_39*topic_Staff_39))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=f792b142b1c43124b44a50cbe5b1b1f13b753942 records_attr3=181a85e11a222348a15d41176ed0397c5915af97 records_attr4=topic_Course_82(r122@n257(hasword_sundai_82)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=f8aebd3dbef3122166a5447abb90c9bb7aff691c records_attr3=a8e9e7a81ddb44e5f0a0c3bec732415c6abf10c3 records_attr4=topic_Person_15(r464@n257(hasword_model_15)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=f915dbeef2880d4b942a36c6151d908a0536566a records_attr3=5b5c6788612c3cb3c2efbd1b02f434349adf1d21 records_attr4=topic_Faculty_42(r486@n257(hasword_paper_42)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=fa2c4c59297f34b1662bfd2ff77d876b1ea06f39 records_attr3=6b29f6741fee7d2ea64db202bfc6e80f6c0783f records_attr4=topic_Student_20(r247@n257(hasword_signal_20)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=fa523c5fb94c6d3587a40330b2bb02236890a255 records_attr3=e96408f833e91287e5f6fd4277be3e837ae3d193 records_attr4=topic_Student_94(rl@n257(links_94_11*topic_Student_11(rl@n257(links_11_101*topic_Student_101((r277@n257(hasword_compil_101))+(rl@n257(links_101_65*topic_Student_65(r70@n257(hasword_knowledg_65))))))))) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=fc2f7c990f2495bd26bc772cf81b926278031508 records_attr3=5eaf57dd31fd710a7564abe67fda51a9824f82de records_attr4=topic_Course_56(r194@n257(hasword_set_56)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=fcda2a6517deddce1cb4ecea71cb0eb874c509c9 records_attr3=8d7e98c94bc7ab2277877c31314851f75549a84e records_attr4=topic_Student_16(r86@n257(hasword_tabl_16)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=fd200d662a52e703f85d9351629321fa77f89f21 records_attr3=da208bcf9a36fdf07f6702d75d008df9c5c8cf12 records_attr4=topic_Staff_12(r127@n257(hasword_fax_12)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=fddd3b1999fcc0af460f0085c54d8f417ba5d799 records_attr3=d31e217e84fe392e545c042bef3f69ac591d9563 records_attr4=topic_Student_41(r266@n257(hasword_color_41)) 
+time=999 node=10.1.1.4 tuple=records records_attr1=10.1.1.4 records_attr2=ff49782c51db81a57f0c8892a959d979bf0f117a records_attr3=f18ac44a6c3070481437120846db650cd6ecc972 records_attr4=topic_Faculty_91(r98@n257(hasword_introduct_91)) 
+time cost: 35.1964 seconds
