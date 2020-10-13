@@ -51,3 +51,50 @@ vim examples/hyper-text-class-query-test.cc
 vim logfile.log 
 git push origin master
 sudo git push origin master
+git init
+git add.
+git add ./
+git commit -m "weeawr"
+git config --global user.email "1065483675@qq.com"
+git config --global user.name "SpeagleYao"
+git commit -m "weeawr"
+git push
+git push rapidnet_sample
+git push --set-upstream rapidnet_sample master
+git push origin master
+git init
+cd ../
+cd speagle/.git/
+ls
+cd ..
+ls
+git add *
+git commit -m "new_rapidnet"
+git remote add origin <server>
+git push origin master
+git clone /path/to/repository
+git clone ssh:git@github.com:SpeagleYao/rapidnet_sample.git
+git clone https://github.com/SpeagleYao/rapidnet_sample.git
+git push https://github.com/SpeagleYao/rapidnet_sample.git
+git push --set-upstream https://github.com/SpeagleYao/rapidnet_sample.git master
+git add *
+ls
+cd rapidnet_
+cd rapidnet__
+cd rapidnet_sample/
+ls
+cd ..
+git commit -m New"
+git commit -m "New"
+git push --set-upstream https://github.com/SpeagleYao/rapidnet_sample.git master
+ls
+rmdir rapidnet_sample/
+rmdir -a  rapidnet_sample/
+rm -f  rapidnet_sample/
+rm -rf  rapidnet_sample/
+ls
+cd rapidnet_v1.0/
+vim logfile.log 
+cd rapidnet_v1.0/
+vim logfile.log 
+tmux attach -t 0
