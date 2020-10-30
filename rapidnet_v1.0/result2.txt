@@ -1,0 +1,40 @@
+Turn: 1
+time cost: 262.213 seconds
+maintenance time: 29.441921 s
+average query time: 0.28267582921348317 s
+Turn: 2
+time cost: 893.037 seconds
+maintenance time: 57.764145 s
+average query time: 0.8177480351089589 s
+Turn: 3
+time cost: 1739.4 seconds
+maintenance time: 88.517453 s
+average query time: 1.233967816482583 s
+Turn: 4
+time cost: 4220.12 seconds
+maintenance time: 119.098045 s
+average query time: 2.5323051865771813 s
+Turn: 5
+time cost: 7571.53 seconds
+maintenance time: 150.61405 s
+average query time: 3.962480809443508 s
+Turn: 6
+time cost: 14902.4 seconds
+maintenance time: 175.358104 s
+average query time: 7.068156207050646 s
+Turn: 7
+time cost: 22689.5 seconds
+maintenance time: 204.400907 s
+average query time: 9.744148130957683 s
+Turn: 8
+time cost: 29160.6 seconds
+maintenance time: 227.669944 s
+average query time: 11.49761044367629 s
+Turn: 9
+time cost: 58736.2 seconds
+maintenance time: 268.501406 s
+average query time: 21.63735696896291 s
+Turn: 10
+time cost: 81879.2 seconds
+maintenance time: 293.86885 s
+average query time: 28.607507381087807 s

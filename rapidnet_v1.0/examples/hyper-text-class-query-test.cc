@@ -93,26 +93,35 @@
 #define HyperTextClassTest20 \
 "./data/hyper-text-class/sample4/sample420.db"
 
+#define HyperTextClassNewTest1 \
+"./data/hyper-text-class/sample_new2/sample1.db"
+
+#define HyperTextClassNewTest2 \
+"./data/hyper-text-class/sample_new2/sample2.db"
+
+#define HyperTextClassNewTest3 \
+"./data/hyper-text-class/sample_new2/sample3.db"
+
 #define HyperTextClassNewTest4 \
-"./data/hyper-text-class/sample_new/sample4.db"
+"./data/hyper-text-class/sample_new2/sample4.db"
 
 #define HyperTextClassNewTest5 \
-"./data/hyper-text-class/sample_new/sample5.db"
+"./data/hyper-text-class/sample_new2/sample5.db"
 
 #define HyperTextClassNewTest6 \
-"./data/hyper-text-class/sample_new/sample6.db"
+"./data/hyper-text-class/sample_new2/sample6.db"
 
 #define HyperTextClassNewTest7 \
-"./data/hyper-text-class/sample_new/sample7.db"
+"./data/hyper-text-class/sample_new2/sample7.db"
 
 #define HyperTextClassNewTest8 \
-"./data/hyper-text-class/sample_new/sample8.db"
+"./data/hyper-text-class/sample_new2/sample8.db"
 
 #define HyperTextClassNewTest9 \
-"./data/hyper-text-class/sample_new/sample9.db"
+"./data/hyper-text-class/sample_new2/sample9.db"
 
 #define HyperTextClassNewTest10 \
-"./data/hyper-text-class/sample_new/sample10.db"
+"./data/hyper-text-class/sample_new2/sample10.db"
 
 #define hasword(local, word, address) \
 tuple (HyperTextClass::HASWORD, \
@@ -225,7 +234,7 @@ void parseLine(const string& line) {
 
 
 void train() {
-  ifstream fp(HyperTextClassNewTest10);
+  ifstream fp(HyperTextClassNewTest1);
   string line;
 
   while (getline(fp, line)) {
